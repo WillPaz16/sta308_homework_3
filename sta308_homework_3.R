@@ -1,6 +1,7 @@
 ## Homework #3
 ## AddItUp() Function
 ## Author: Will Paz
+## Hi Dr Fisher!
 
 AddItUp <- function() {
   numbers <- c() # Creates a empty vector

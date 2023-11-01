@@ -6,7 +6,7 @@ Brief Description:
 
 The AddItUp function sums as many numbers as a user desires and then outputs
 the Total of those numbers, the NumNumbers (number of numbers), and the 
-numbers that were entered.
+numbers that were entered
 
 In-Depth Description:
 
